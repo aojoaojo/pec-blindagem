@@ -11,9 +11,9 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const isMobile = window.innerWidth <= 768;
-
+  console.log(import.meta.env.BASE_URL + "/dados-pec-blindagem.json");
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + "dados.json")
+    fetch(import.meta.env.BASE_URL + "/dados-pec-blindagem.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error(
