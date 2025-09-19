@@ -1,0 +1,3074 @@
+[
+  {
+    "deputado_federal": "AJ Albuquerque",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Acácio Favacho",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Adail Filho",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Adilson Barroso",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Adolfo Viana",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Adriana Ventura",
+    "partido": "Novo",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Adriano do Baldy",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Aécio Neves",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Afonso Hamm",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Afonso Motta",
+    "partido": "PDT",
+    "como_votou": "Não votou",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Aguinaldo Ribeiro",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Airton Faleiro",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Alberto Fraga",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Albuquerque",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Alceu Moreira",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Alencar Santana",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Alex Manente",
+    "partido": "Cidadania",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Alex Santana",
+    "partido": "Republicanos",
+    "como_votou": "Não votou",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Alexandre Guimarãe",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Alfredinho",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Alfredo Gaspar",
+    "partido": "União",
+    "como_votou": "Não votou",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Alice Portugal",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Aliel Machado",
+    "partido": "PV",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Aline Gurgel",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Allan Garcês",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Altineu Côrtes",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Aluisio Mendes",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Amanda Gentil",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Amaro Neto",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Amom Mandel",
+    "partido": "Cidadania",
+    "como_votou": "Não",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Ana Paula Leão",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Ana Paula Lima",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Ana Pimentel",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "André Abdon",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "André Fernandes",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "André Ferreira",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "André Figueiredo",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Andreia Siqueira",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Antônia Lúcia",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Antonio Andrade",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Antonio Brito",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Antonio Carlos R.",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Antônio Doido",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Any Ortiz",
+    "partido": "Cidadania",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "ArlindoChinaglia",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Arnaldo Jardim",
+    "partido": "Cidadania",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Arthur Lira",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Arthur O. Maia",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Átila Lins",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Átila Lira",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Augusto Coutinho",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Aureo Ribeiro",
+    "partido": "Solidariede",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Bacelar",
+    "partido": "PV",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Baleia Rossi",
+    "partido": "MDB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Bandeira de Mello",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Bebeto",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Benedita da Silva",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Benes Leocádio",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Beto Pereira",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Beto Richa",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Bia Kicis",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Bibo Nunes",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Bohn Gass",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Bruno Farias",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Bruno Ganem",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Caio Vianna",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Camila Jara",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Cap. Alberto Neto",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Capitão Alden",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Capitão Augusto",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Carla Dickson",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Carlos Gaguim",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Carlos Jordy",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Carlos Sampaio",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Carlos Veras",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Carlos Zarattini",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Carol Dartora",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Caroline de Toni",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Castro Neto",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Cb Gilberto Silva",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Cel. Chrisóstomo",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Célia Xakriabá",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Célio Silveira",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Célio Studart",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Celso Russomanno",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Cezinha Madureira",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Charles Fernandes",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Chico Alencar",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Chris Tonietto",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Clarissa Tércio",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Claudio Cajado",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Cleber Verde",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Clodoaldo Magalhãe",
+    "partido": "PV",
+    "como_votou": "Não",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Cobalchini",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Coronel Assis",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Coronel Fernanda",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Coronel Meira",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Coronel Ulysses",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Covatti Filho",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Cristiane Lopes",
+    "partido": "União",
+    "como_votou": "Não",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Da Vitoria",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Dagoberto Nogueira",
+    "partido": "PSDB",
+    "como_votou": "Não votou",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Daiana Santos",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Dal Barreto",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Damião Feliciano",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Dandara",
+    "partido": "PT",
+    "como_votou": "Não*",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Dani Cunha",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Daniel Agrobom",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Daniel Almeida",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Daniel Barbosa",
+    "partido": "PP",
+    "como_votou": "Não",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Daniel Freitas",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Daniel Trzeciak",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Daniela Reinehr",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Daniela Waguinho",
+    "partido": "União",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Danilo Forte",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Danrlei",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "David Soares",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Dayany Bittencourt",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Def. Stélio Dener",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Del. Adriana A.",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Del. Bruno Lima",
+    "partido": "PP",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Del. Éder Mauro",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Del. Fabio Costa",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Del. Matheus L.",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Delegada Ione",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Delegada Katarina",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Delegado Bilynskyj",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Delegado Caveira",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Delegado Marcelo",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Delegado Palumbo",
+    "partido": "MDB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Delegado Ramagem",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Delegado da Cunha",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Denise Pessôa",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Detinha",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Diego Andrade",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Diego Coronel",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Diego Garcia",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Dilceu Sperafico",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Dilvanda Faro",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Dimas Fabiano",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Dimas Gadelha",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Domingos Neto",
+    "partido": "PSD",
+    "como_votou": "Não votou",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Domingos Sávio",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Dorinaldo Malafaia",
+    "partido": "PDT",
+    "como_votou": "Não",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Douglas Viegas",
+    "partido": "União",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Doutor Luizinho",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Dr Fernando Máximo",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Dr Victor Linhalis",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Dr. Francisco",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Dr. Frederico",
+    "partido": "PRD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Dr. Ismael Alexand",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Dr. Jaziel",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Dr. Luiz Ovando",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Dr.Zacharias Calil",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Dra. Alessandra H.",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Duarte Jr.",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Duda Ramos",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Duda Salabert",
+    "partido": "PDT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Eduardo Velloso",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Eduardo da Fonte",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "EduardoBolsonaro",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Elcione Barbalho",
+    "partido": "MDB",
+    "como_votou": "Não votou",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Eli Borges",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Elmar Nascimento",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Ely Santos",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Emanuel Pinheiro N",
+    "partido": "MDB",
+    "como_votou": "Não",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Emidinho Madeira",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Enf. Ana Paula",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Enfermeira Rejane",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Eriberto Medeiros",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Erika Hilton",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Erika Kokay",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Eros Biondini",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Euclydes Pettersen",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Evair de Melo",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Fábio Macedo",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Fabio Reis",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Fabio Schiochet",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Fábio Teruel",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Fausto Pinato",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Fausto Santos Jr.",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Felipe Becari",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Felipe Carreras",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Felipe Francischin",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Félix Mendonça Jr",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Fernanda Pessôa",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "FernandaMelchionna",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Fernando Coelho",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Fernando Mineiro",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Fernando Monteiro",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Fernando Rodolfo",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Filipe Barros",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Filipe Martins",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Flávia Morais",
+    "partido": "PDT",
+    "como_votou": "Não",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Flávio Nogueira",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Florentino Neto",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Franciane Bayer",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Fred Costa",
+    "partido": "PRD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Fred Linhares",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Gabriel Mota",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Gabriel Nunes",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "General Girão",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "General Pazuello",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Geovania de Sá",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Geraldo Mendes",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Geraldo Resende",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Gervásio Maia",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Giacobo",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Gilberto Abramo",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "GilbertoNascimento",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Gilson Daniel",
+    "partido": "Podemos",
+    "como_votou": "Não",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Gilson Marques",
+    "partido": "Novo",
+    "como_votou": "Não",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Gilvan da Federal",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Giovani Cherini",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Gisela Simona",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Glauber Braga",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Greyce Elias",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Guilherme Boulos",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Guilherme Uchoa",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Gustavo Gayer",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Gustinho Ribeiro",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Gutemberg Reis",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Heitor Schuch",
+    "partido": "PSB",
+    "como_votou": "Não votou",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Helder Salomão",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Helena Lima",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Helio Lopes",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Henderson Pinto",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Hercílio Diniz",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Hildo Rocha",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Hugo Leal",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Hugo Motta",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Icaro de Valmir",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Igor Timo",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Ismael",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Isnaldo Bulhões Jr",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Ivan Valente",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Ivoneide Caetano",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Iza Arruda",
+    "partido": "MDB",
+    "como_votou": "Não votou",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Jack Rocha",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Jadyel Alencar",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Jandira Feghali",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Jeferson Rodrigues",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Jefferson Campos",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Jilmar Tatto",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "João Cury",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "João Daniel",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "João Leão",
+    "partido": "PP",
+    "como_votou": "Não votou",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "João Maia",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "JoãoCarlosBacelar",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Joaquim Passarinho",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Jonas Donizette",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Jorge Braz",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Jorge Goetten",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Jorge Solla",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "José Airton",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "José Guimarães",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "José Medeiros",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "José Nelto",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "José Priante",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "José Rocha",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Joseildo Ramos",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Josenildo",
+    "partido": "PDT",
+    "como_votou": "Não votou",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Josias Gomes",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "JosimarMaranhãozi",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Josivaldo JP",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Juarez Costa",
+    "partido": "MDB",
+    "como_votou": "Não",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Julia Zanatta",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Juliana Cardoso",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Julio Arcoverde",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Júlio Cesar",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Julio Cesar Ribeir",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Julio Lopes",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Juninho do Pneu",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Junio Amaral",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Júnior Ferrari",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Junior Lourenço",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Júnior Mano",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Juscelino Filho",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Keniston Braga",
+    "partido": "MDB",
+    "como_votou": "Não votou",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Kiko Celeguim",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Kim Kataguiri",
+    "partido": "União",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Lafayette Andrada",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Laura Carneiro",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Lêda Borges",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Lenir de Assis",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Leo Prates",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Leonardo Monteiro",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Leônidas Cristino",
+    "partido": "PDT",
+    "como_votou": "Não votou",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Leur Lomanto Jr.",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Lídice da Mata",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Lincoln Portela",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Lindbergh Farias",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Lindenmeyer",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Lucas Ramos",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Lucas Redecker",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Luciano Alves",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Luciano Amaral",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Luciano Bivar",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Luciano Ducci",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Luciano Vieira",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Lucio Mosquini",
+    "partido": "MDB",
+    "como_votou": "Não votou",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Luis Carlos Gomes",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Luis Tibé",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Luisa Canziani",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Luiz Carlos Busato",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Luiz Carlos Hauly",
+    "partido": "Podemos",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Luiz Carlos Motta",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Luiz Couto",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Luiz F. Vampiro",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Luiz Fernando",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Luiz Gastão",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Luiz Lima",
+    "partido": "Novo",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Luiz Nishimori",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Luiz P.O Bragança",
+    "partido": "PL",
+    "como_votou": "Não votou",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "LuizAntônioCorrêa",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Luiza Erundina",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Luizianne Lins",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Lula da Fonte",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Magda Mofatto",
+    "partido": "PRD",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Marangoni",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Marcel van Hattem",
+    "partido": "Novo",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Marcelo Álvaro",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Marcelo Crivella",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Marcelo Moraes",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Marcio Alvino",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Márcio Biolchi",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Márcio Honaiser",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Márcio Jerry",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Márcio Marinho",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Marcon",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Marcos A. Sampaio",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Marcos Pereira",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Marcos Pollon",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Marcos Soares",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Marcos Tavares",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Maria Arraes",
+    "partido": "Solidariede",
+    "como_votou": "Não",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Maria Rosas",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Maria do Rosário",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Mario Frias",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Mário Heringer",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Mário Negromonte J",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Marreca Filho",
+    "partido": "PRD",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Marussa Boldrin",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Marx Beltrão",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Matheus Noronha",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Maurício Carva lho",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Mauricio Marcon",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Mauricio Neves",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Mauricio do Vôlei",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "MauroBenevides Fo.",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Max Lemos",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Meire Serafim",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Mendonça Filho",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Merlong Solano",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "PI"
+  },
+  {
+    "deputado_federal": "Mersinho Lucena",
+    "partido": "PP",
+    "como_votou": "Não votou",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Messias Donato",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Miguel Ângelo",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Miguel Lombardi",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Mis. José Olimpio",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Misael Varella",
+    "partido": "PSD",
+    "como_votou": "Não votou",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Moses Rodrigues",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Murillo Gouvea",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Murilo Galdino",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Natália Bonavides",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Nelinho Freitas",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Nelson Barbudo",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Nely Aquino",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Neto Carletto",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Newton Cardoso Jr",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Nicoletti",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Nikolas Ferreira",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Nilto Tatto",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Odair Cunha",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Olival Marques",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Orlando Silva",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Osmar Terra",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Ossesio Silva",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Otoni de Paula",
+    "partido": "MDB",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Otto Alencar Filho",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Padovani",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Padre João",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Pastor Claudio Mar",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Pastor Diniz",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Pastor Eurico",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Pastor Gil",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Pastor Henrique V.",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Pastor Isidório",
+    "partido": "Avante",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Patrus Ananias",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Pauderney Avelino",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Paulão",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Paulinho da Força",
+    "partido": "Solidariede",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Paulo A. Barbosa",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Paulo Abi-Ackel",
+    "partido": "PSDB",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Paulo Azi",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Paulo Folletto",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "ES"
+  },
+  {
+    "deputado_federal": "Paulo Freire Costa",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Paulo Guedes",
+    "partido": "PT",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Paulo Lemos",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Paulo Litro",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Paulo Magalhães",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Paulo Pimenta",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Pedro A ihara",
+    "partido": "PRD",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Pedro Campos",
+    "partido": "PSB",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Pedro Lucas F.",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Pedro Lupion",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Pedro Paulo",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Pedro Uczai",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Pedro Westphalen",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Pezenti",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Pinheirinho",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Pompeo de Mattos",
+    "partido": "PDT",
+    "como_votou": "Não votou",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Pr.Marco Feliciano",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Prof Marcivania",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Prof. Reginaldo V.",
+    "partido": "PV",
+    "como_votou": "Não",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Professor Alcides",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Professora Luciene",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Rafael Brito",
+    "partido": "MDB",
+    "como_votou": "Não votou",
+    "estado": "AL"
+  },
+  {
+    "deputado_federal": "Rafael Fera",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Rafael Prudente",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Rafael Simoes",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Raimundo Costa",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Raimundo Santos",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Reginaldo Lopes",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Reimont",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Reinhold Stephanes",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Renata Abreu",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Renilce Nicodemos",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PA"
+  },
+  {
+    "deputado_federal": "Renildo Calheiros",
+    "partido": "PCdoB",
+    "como_votou": "Não",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Ribamar Silva",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Ricardo Abrão",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Ricardo Ayres",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Ricardo Barros",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Ricardo Guidi",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Ricardo Maia",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Ricardo Salles",
+    "partido": "Novo",
+    "como_votou": "Não votou",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Robério Monteiro",
+    "partido": "PDT",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Roberta Roma",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Roberto Duarte",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Roberto Monteiro",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Robinson Faria",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Rodolfo Nogueira",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Rodrigo Estacho",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Rodrigo Gambale",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Rodrigo Rollemberg",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "DF"
+  },
+  {
+    "deputado_federal": "Rodrigo Valadares",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Rodrigo da Zaeli",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MT"
+  },
+  {
+    "deputado_federal": "Rodrigo de Castro",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Rogéria Santos",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Rogério Correia",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Romero Rodrigues",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Ronaldo Nogueira",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Rosana Valle",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Rosangela Moro",
+    "partido": "União",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Rosângela Reis",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Rubens Otoni",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Rubens Pereira Jr.",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MA"
+  },
+  {
+    "deputado_federal": "Rui Falcão",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Ruy Carneiro",
+    "partido": "Podemos",
+    "como_votou": "Não",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Sâmia Bomfim",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Samuel Santos",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Samuel Viana",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Sanderson",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  },
+  {
+    "deputado_federal": "Sargento Fahur",
+    "partido": "PSD",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Sargento Portugal",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Saulo Pedroso",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Sergio Souza",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Sgt. Gonçalves",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RN"
+  },
+  {
+    "deputado_federal": "Sidney Leite",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Silas Câmara",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "AM"
+  },
+  {
+    "deputado_federal": "Silvia Cristina",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Silvye Alves",
+    "partido": "União",
+    "como_votou": "Sim",
+    "estado": "GO"
+  },
+  {
+    "deputado_federal": "Simone Marquetto",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Socorro Neri",
+    "partido": "PP",
+    "como_votou": "Não",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Soraya Santos",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Sóstenes Cavalcant",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Stefano Aguiar",
+    "partido": "PSD",
+    "como_votou": "Não votou",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Tabata Amaral",
+    "partido": "PSB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Tadeu Veneri",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Talíria Petrone",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Tarcísio Motta",
+    "partido": "PSOL",
+    "como_votou": "Não",
+    "estado": "RJ"
+  },
+  {
+    "deputado_federal": "Thiago Flores",
+    "partido": "Republicanos",
+    "como_votou": "Não votou",
+    "estado": "RO"
+  },
+  {
+    "deputado_federal": "Thiago de Joaldo",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Tiago Dimas",
+    "partido": "Podemos",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Tião Medeiros",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Tiririca",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "ToninhoWandscheer",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Túlio Gadêl ha",
+    "partido": "Rede",
+    "como_votou": "Não",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Valmir Assunção",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Vander Loubet",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "MS"
+  },
+  {
+    "deputado_federal": "Vermelho",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Vicentinho",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Vicentinho Júnior",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "TO"
+  },
+  {
+    "deputado_federal": "Vinicius Carvalho",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Vinicius Gurgel",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "AP"
+  },
+  {
+    "deputado_federal": "Vitor Lippi",
+    "partido": "PSDB",
+    "como_votou": "Não",
+    "estado": "SP"
+  },
+  {
+    "deputado_federal": "Waldemar Oliveira",
+    "partido": "Avante",
+    "como_votou": "Sim",
+    "estado": "PE"
+  },
+  {
+    "deputado_federal": "Waldenor Pereira",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Weliton Prado",
+    "partido": "Solidariede",
+    "como_votou": "Não",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Wellington Roberto",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Welter",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Wilson Santiago",
+    "partido": "Republicanos",
+    "como_votou": "Sim",
+    "estado": "PB"
+  },
+  {
+    "deputado_federal": "Yandra Moura",
+    "partido": "União",
+    "como_votou": "Não votou",
+    "estado": "SE"
+  },
+  {
+    "deputado_federal": "Yury do Paredão",
+    "partido": "MDB",
+    "como_votou": "Sim",
+    "estado": "CE"
+  },
+  {
+    "deputado_federal": "Zé Adriano",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Zé Neto",
+    "partido": "PT",
+    "como_votou": "Não",
+    "estado": "BA"
+  },
+  {
+    "deputado_federal": "Zé Silva",
+    "partido": "Solidariede",
+    "como_votou": "Não votou",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "Zé Trovão",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "SC"
+  },
+  {
+    "deputado_federal": "Zé Vitor",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "MG"
+  },
+  {
+    "deputado_federal": "ZéHaroldoCathedral",
+    "partido": "PSD",
+    "como_votou": "Não",
+    "estado": "RR"
+  },
+  {
+    "deputado_federal": "Zeca Dirceu",
+    "partido": "PT",
+    "como_votou": "Não votou",
+    "estado": "PR"
+  },
+  {
+    "deputado_federal": "Zezinho Barbary",
+    "partido": "PP",
+    "como_votou": "Sim",
+    "estado": "AC"
+  },
+  {
+    "deputado_federal": "Zucco",
+    "partido": "PL",
+    "como_votou": "Sim",
+    "estado": "RS"
+  }
+]
